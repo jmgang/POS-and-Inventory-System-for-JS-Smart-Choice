@@ -2,7 +2,7 @@
 
 
 ## Technologies Used
-Used JasperViewer as Reporting Tool and Jhrome as Tab UI Interface.
+Used JasperViewer and JasperReports as Reporting Tool and Jhrome as Tab UI Interface.
 Used MVC Architecture
 
 ### Version
